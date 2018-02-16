@@ -1,0 +1,35 @@
+#テーマの設定
+# options: black, moon, night, beige, sky, and white(default)
+theme : moon
+
+# Background image
+#background : assets/bg.jpg
+
+# Background image size
+# options: auto, contain, cover
+#background-size : cover
+
+#ロゴアイコンの設定
+logo : OpenStack_UserGroup_Japan_round.jpg
+
+
+#フットノートの設定
+footnote : "© 2018 Shintaro Mizuno"
+
+
+#スライドのページ数表示の設定
+slide-number: true
+
+#コンテンツの垂直アライメント（デフォルト中央）
+#vertical-center : false
+
+#スライドのループ設定
+loop : true
+
+
+#トランジションの設定
+transition : fade
+
+
+#チャート / グラフ機能の設定
+charts : true
